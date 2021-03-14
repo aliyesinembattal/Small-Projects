@@ -1,0 +1,32 @@
+h1 {
+  text-align: center;
+  margin-top: 10px;
+  font-family: "Risque", cursive;
+  font-size: 50px;
+}
+
+.form-group {
+  font-family: "Risque", cursive;
+  font-size: 25px;
+}
+
+.heading::before {
+  font-family: "Font Awesome 5 Free";
+  content: "\f2c2";
+  padding: 15px;
+  font-size: 40px;
+}
+
+.btn {
+  font-family: "Risque", cursive;
+  font-size: 25px;
+}
+
+.container {
+  background-color: #888888;
+  padding-top: 20px;
+}
+
+body {
+  background-color: #888888;
+}

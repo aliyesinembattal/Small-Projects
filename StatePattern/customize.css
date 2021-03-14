@@ -1,0 +1,17 @@
+#heading {
+  text-align: center;
+  padding-top: 30px;
+  color: #9d8189;
+  font-weight: bolder;
+}
+
+#content {
+  text-align: center;
+  color: #9d8189;
+  font-weight: bold;
+  padding-top: 10px;
+}
+
+h1 {
+  font-weight: bolder !important;
+}
